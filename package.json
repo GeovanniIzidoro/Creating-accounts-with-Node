@@ -1,0 +1,16 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Geovanni Izidoro <geovanniizi2002@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chlak": "^0.0.1-security",
+    "inquire": "^0.4.8"
+  }
+}
